@@ -33,3 +33,4 @@
 - **Core 1** will be used to measure distance using the HC-SR04 sensor, control led, and servo.
 
 ### PROJECT
+!["blockdiagram"](hardware.png)
